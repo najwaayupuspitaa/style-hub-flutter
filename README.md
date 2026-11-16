@@ -1,17 +1,57 @@
-# style_hub
+# STYLE HUB
+### Aplikasi Katalog Fashion Berbasis Flutter
 
-A new Flutter project.
+## Deskripsi Aplikasi
 
-## Getting Started
+STYLE HUB merupakan aplikasi katalog fashion berbasis mobile yang dibuat menggunakan framework Flutter dan bahasa pemrograman Dart.
 
-This project is a starting point for a Flutter application.
+Aplikasi ini menyediakan berbagai pilihan produk fashion seperti pakaian pria, pakaian wanita, sepatu, dan aksesori dengan tampilan sederhana, modern, dan elegan.
 
-A few resources to get you started if this is your first Flutter project:
+Aplikasi ini dibuat sebagai proyek Ujian Tengah Semester (UTS) dengan menggunakan data dummy tanpa database maupun API.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Fitur Aplikasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Halaman Utama:** Menampilkan banner dan daftar produk fashion.
+- **Pencarian Produk:** Mencari produk berdasarkan nama atau kategori.
+- **Filter Kategori:** Memilih produk berdasarkan kategori.
+- **Favorit:** Menyimpan produk yang disukai.
+- **Detail Produk:** Melihat gambar, nama, harga, dan deskripsi produk.
+- **Keranjang:** Menambahkan produk dan mengatur jumlah barang.
+
+## Teknologi yang Digunakan
+
+- Flutter
+- Dart
+- Visual Studio Code
+- Google Chrome
+
+## Struktur Folder
+
+```text
+lib/
+├── main.dart
+├── models/
+│   └── product.dart
+└── pages/
+    └── home_page.dart
+```
+
+## Cara Menjalankan Aplikasi
+
+1. Pastikan Flutter sudah terpasang di komputer.
+2. Unduh atau salin repository ini.
+3. Buka folder project melalui Visual Studio Code.
+4. Jalankan perintah berikut pada terminal:
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Pengembang
+
+**Nama:** Najwa Ayu Puspita  
+**NIM:** 24552011251  
+**Program Studi:** Teknik Informatika  
+**Universitas:** Universitas Teknologi Bandung  
+**Tahun:** 2026
