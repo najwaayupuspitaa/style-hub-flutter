@@ -36,18 +36,6 @@ lib/
     └── home_page.dart
 ```
 
-## Cara Menjalankan Aplikasi
-
-1. Pastikan Flutter sudah terpasang di komputer.
-2. Unduh atau salin repository ini.
-3. Buka folder project melalui Visual Studio Code.
-4. Jalankan perintah berikut pada terminal:
-
-```bash
-flutter pub get
-flutter run
-```
-
 ## Pengembang
 
 **Nama:** Najwa Ayu Puspita  
